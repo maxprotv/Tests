@@ -213,7 +213,91 @@ https://ythls.kekikakademi.org/youtube/channel/UCai9a-7GjCkWiaV7cCkIMJg.m3u8
 #EXTINF:-1 tvg-name="Zarok TV" tvg-language="Kurdish" tvg-country="IR" tvg-id="CizgiFilm_ZarokTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/1_ZarokTVLogonet5.png" group-title="ÇizgiFilm",Zarok TV
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 
-
+# * »BE*N Spor « * #
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/289050.png", TR BEIN SPORTS
+https://live.maxpro.net.tr/titan/live/tr_bein_sports.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/315470.png", TR BEIN SPORTS 1 MOBIL
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_1_mobil.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/413293.png", TR BEIN SPORTS 1 HD
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_1_hd.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/4.beIN.SPORTS.1.-.FHD.97506.png", TR BEIN SPORTS 1 FHD
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_1_fhd.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/145289.png", TR BEIN SPORTS 1 HEVC
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_1_hevc.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/566402.png", TR BEIN SPORTS 4K TRANSCODE
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_4k_transcode.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/4.beIN.SPORTS.1.-.RAW.-.MAC.ZAMANI.35494.png", TR BEIN SPORTS 1 RAW MAC ZAMANI
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_1_raw_mac_zamani.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/168743.png", TR BEIN SPORTS 1 RAW GECIKMESIZ
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_1_raw_gecikmesiz.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/811782.png", TR BEIN SPORTS 1 FEED FHD
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_1_feed_fhd.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/750464.png", TR BEIN SPORTS 1 FEED HD
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_1_feed_hd.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/4.beIN.SPORTS.2.-.RAW.-.MAC.ZAMANI.65140.png", TR BEIN SPORTS 2 RAW MAC ZAMANI
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_2_raw_mac_zamani.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/769415.png", TR BEIN SPORTS 2 RAW GECIKMESIZ
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_2_raw_gecikmesiz.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/4.beIN.SPORTS.2.-.FHD.72326.png", TR BEIN SPORTS 2 FHD
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_2_fhd.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/4.beIN.SPORTS.2.-.HD.80576.png", TR BEIN SPORTS 2 HD
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_2_hd.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/331456.png", TR BEIN SPORTS 2 FEED
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_2_feed.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/4.beIN.SPORTS.3.-.RAW.-.MAC.ZAMANI.43599.png", TR BEIN SPORTS 3 RAW MAC ZAMANI
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_3_raw_mac_zamani.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/409334.png", TR BEIN SPORTS 3 RAW GECIKMESIZ
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_3_raw_gecikmesiz.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/4.beIN.SPORTS.3.-.FHD.95475.png", TR BEIN SPORTS 3 FHD
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_3_fhd.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/4.beIN.SPORTS.3.-.HD.66355.png", TR BEIN SPORTS 3 HD
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_3_hd.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/4.beIN.SPORTS.4.-.RAW.-.MAC.ZAMANI.85786.png", TR BEIN SPORTS 4 RAW MAC ZAMANI
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_4_raw_mac_zamani.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/4.beIN.SPORTS.4.-.FHD.35608.png", TR BEIN SPORTS 4 FHD
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_4_fhd.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/4.beIN.SPORTS.4.-.HD.31133.png", TR BEIN SPORTS 4 HD
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_4_hd.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/951393.png", TR BEIN SPORTS 5 RAW MAC ZAMANI
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_5_raw_mac_zamani.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/4.beIN.SPORTS.5.-.FHD.95505.png", TR BEIN SPORTS 5 FHD
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_5_fhd.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/4.beIN.SPORTS.5.-.HD.92935.png", TR BEIN SPORTS 5 HD
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_5_hd.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/4.beIN.SPORTS.4K.-.RAW.40124.png", TR BEIN SPORTS 4K RAW
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_4k_raw.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/4.beIN.SPORTS.4K.-.RAW.40124.png", TR BEIN SPORTS 4K RAW GECIKMESIZ
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_4k_raw_gecikmesiz.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/4.beIN.SPORTS.MAX.1.-.FHD.23702.png", TR BEIN SPORTS MAX 1 FHD
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_max_1_fhd.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/4.beIN.SPORTS.MAX.1.-.HD.96939.png", TR BEIN SPORTS MAX 1 HD
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_max_1_hd.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/4.beIN.SPORTS.MAX.2.-.FHD.57564.png", TR BEIN SPORTS MAX 2 FHD
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_max_2_fhd.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/4.beIN.SPORTS.MAX.2.-.HD.31004.png", TR BEIN SPORTS MAX 2 HD
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_max_2_hd.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/4.beIN.CONNECT.1.25024.png", TR BEIN CONNECT 1
+https://live.maxpro.net.tr/titan/live/tr_bein_connect_1.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/4.beIN.CONNECT.2.59796.png", TR BEIN CONNECT 2
+https://live.maxpro.net.tr/titan/live/tr_bein_connect_2.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/4.beIN.CONNECT.3.25850.png", TR BEIN CONNECT 3
+https://live.maxpro.net.tr/titan/live/tr_bein_connect_3.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/4.beIN.CONNECT.4.95220.png", TR BEIN CONNECT 4
+https://live.maxpro.net.tr/titan/live/tr_bein_connect_4.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/4.beIN.CONNECT.5.28807.png", TR BEIN CONNECT 5
+https://live.maxpro.net.tr/titan/live/tr_bein_connect_5.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/4.beIN.CONNECT.6.38645.png", TR BEIN CONNECT 6
+https://live.maxpro.net.tr/titan/live/tr_bein_connect_6.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="https://i.ibb.co/tZXWdL8/Bein-CONNECT-7-FHD.png", TR BEIN CONNECT 7
+https://live.maxpro.net.tr/titan/live/tr_bein_connect_7.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="https://i.ibb.co/MsDCLkW/Bein-CONNECT-8-FHD.png", TR BEIN CONNECT 8
+https://live.maxpro.net.tr/titan/live/tr_bein_connect_8.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="https://i.ibb.co/12yFHQN/Bein-CONNECT-9-FHD.png", TR BEIN CONNECT 9
+https://live.maxpro.net.tr/titan/live/tr_bein_connect_9.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/4.beIN.SPORTS.HABER.-.FHD.96763.png", TR BEIN SPORTS HABER FHD
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_haber_fhd.m3u8
+#EXTINF:-1 group-title="TR ⚡️ b*IN Sports" tvg-logo="http://135.125.239.110/icon/4.beIN.SPORTS.HABER.-.HD.77010.png", TR BEIN SPORTS HABER HD
+https://live.maxpro.net.tr/titan/live/tr_bein_sports_haber_hd.m3u8
 
 # * » Spor « * #
 #EXTINF:-1 tvg-name="TRT Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13687983.png" group-title="Spor",TRT Spor
